@@ -23,3 +23,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Dataset: National Institute of Diabetes and Digestive and Kidney Diseases
 - License: CC0: Public Domain
 - Source: [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+
+Clone the repository: https://github.com/shivam-nath-10003/Diabetes_Prediction_ML.git
