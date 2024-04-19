@@ -16,9 +16,6 @@ The dataset consists of medical predictor variables and a target variable (Outco
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 - Dataset: National Institute of Diabetes and Digestive and Kidney Diseases
 - License: CC0: Public Domain
