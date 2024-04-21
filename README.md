@@ -1,4 +1,4 @@
-# Diabetes Prediction ML
+# Diabetes Prediction ML 🩺
 
 This repository contains a machine learning model for predicting diabetes using the Pima Indians Diabetes Database. The project covers data preprocessing, model building, evaluation, and handling class imbalance.
 
